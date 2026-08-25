@@ -14,7 +14,10 @@
     "type": "git",
     "url": "git+https://github.com/your-username/my-utils.git"
   },
-  "keywords": ["utility", "helpers"],
+  "keywords": [
+    "utility",
+    "helpers"
+  ],
   "author": "Your Name",
   "license": "MIT",
   "publishConfig": {
