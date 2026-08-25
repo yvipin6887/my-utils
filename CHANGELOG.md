@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/yvipin6887/my-utils/compare/v1.1.0...v1.2.0) (2026-08-25)
+
+
+### Features
+
+* add utility methods for string and array formatting ([0c6494b](https://github.com/yvipin6887/my-utils/commit/0c6494b008fe9c3e65248f3be319589d92711896))
+* add utility methods for string and array formatting ([3ce4000](https://github.com/yvipin6887/my-utils/commit/3ce400009336b5eb47054d4f60a6a863d7a18617))
+
 ## [1.1.0](https://github.com/yvipin6887/my-utils/compare/v1.0.0...v1.1.0) (2026-08-25)
 
 
