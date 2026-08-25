@@ -1,0 +1,23 @@
+{
+  "name": "@yvipin6887/my-utils",
+  "version": "1.0.0",
+  "description": "A simple string and math utility library",
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node -e \"const u = require('./src'); console.assert(u.capitalize('hello') === 'Hello'); console.log('Tests passed!')\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/my-utils.git"
+  },
+  "keywords": ["utility", "helpers"],
+  "author": "Your Name",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
